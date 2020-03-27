@@ -5,4 +5,4 @@ const minify =require('gulp-minify');
 
 
 gulp.task('steam'),fuction();
-return watch('css'/**
+return watch('css'/**)
